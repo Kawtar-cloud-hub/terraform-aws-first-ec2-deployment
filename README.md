@@ -23,3 +23,4 @@ This code accompanies the detailed guide published on **Kawtar Cloud Hub**:
    terraform init
    terraform plan
    terraform apply
+   terraform destroy
